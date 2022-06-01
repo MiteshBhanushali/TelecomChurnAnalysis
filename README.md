@@ -1,7 +1,9 @@
 # TelecomChurnAnalysis
 <h2>Analysing over 3000 rows of data of Orange S.A. which is is a French multinational telecommunications corporation, giving a recommendation to ensure customer retention</h2>
 This project include 2 file one is python executable file and other is power poin presentation file.
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- Steps Involved -->
 <h2 id="Steps Involved"> :scroll: Steps Involved</h2>
 
